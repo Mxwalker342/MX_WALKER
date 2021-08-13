@@ -21,7 +21,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*creater Ameer Suhail*
 *owner number wa.me/919074208013*
 *bot setting video : https://youtu.be/_D4ZYuUSXjs
-*githublink       https://github.com/ameer-kallumthodi/pikachu*
+*githublink       https://github.com/Mxwalker342/MX_WALKER*
 *audio commads    https://github.com/Mxwalker342/MX_WALKER/tree/master/uploads*
 *sticker commads  https://github.com/Mxwalker342/MX_WALKER/tree/master/uploads*
 `}) 
