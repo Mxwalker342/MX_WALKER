@@ -53,13 +53,11 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/JFRIsI2DUSx6eNTt7yGrw5)
 
 ## 
-  <h3 align="center">📢 Support Group 2:</h3>
-<p align="center">
-Click MX_WALKER logo to Join Support Group 2👇
+  Click WA logo to Join Support Group-2 👇
     <br>
 <br>
-   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/JFRIsI2DUSx6eNTt7yGrw5)
-</p>
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/JFRIsI2DUSx6eNTt7yGrw5)
+
     
 ## Setup
 <div align="center">
