@@ -5,7 +5,7 @@
 <a href="#"><img title="MX_WALKER" src="https://img.shields.io/badge/MX_WALKER-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Mxwalker342"><img title="Author" src="https://img.shields.io/badge/Author-Mxwalker342/MX_WALKER?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Mxwalker342"><img title="Author" src="https://img.shields.io/badge/Author-Mxwalker-342/MX_WALKER?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -31,7 +31,7 @@ Project created by <a href="https://github.com/Mxwalker342">Mxwalker342</a> to m
 
 <h3 align="center">Contact Me:</h3>
 <p align="center">
-<a href="https://instagram.com/ameer_.su_hail?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://instagram.com/nad_343?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 </p>
 <h4 align="center">Support Video For Deploy Bot 👇:</h4>
 <p align="center">
@@ -58,7 +58,7 @@ Click WA logo to Join Support Group 👇
 Click MX_WALKER logo to Join Support Group 2👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/JFRIsI2DUSx6eNTt7yGrw5" target="blank"><img align="center" src="https://i.hizliresim.com/pce1372.png" alt="kyrie.baran" height="200" width="200" /></a>
+   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/JFRIsI2DUSx6eNTt7yGrw5)
 </p>
     
 ## Setup
