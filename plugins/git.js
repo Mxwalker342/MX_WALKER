@@ -22,8 +22,8 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
 *owner number wa.me/919074208013*
 *bot setting video : https://youtu.be/_D4ZYuUSXjs
 *githublink       https://github.com/ameer-kallumthodi/pikachu*
-*audio commads    https://github.com/ameer-kallumthodi/pikachu/tree/master/uploads*
-*sticker commads  https://github.com/ameer-kallumthodi/pikachu/tree/master/uploads*
+*audio commads    https://github.com/Mxwalker342/MX_WALKER/tree/master/uploads*
+*sticker commads  https://github.com/Mxwalker342/MX_WALKER/tree/master/uploads*
 `}) 
 
 }));
