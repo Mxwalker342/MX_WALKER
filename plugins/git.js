@@ -11,7 +11,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
     
     
    
-  r_text[0] = "https://www.pixelstalk.net/wp-content/uploads/2016/03/Pikachu-wallpaper-HD-dowload.jpg";
+  r_text[0] = "https://github.com/Mxwalker342/MX_WALKER/blob/master/gy.jpg";
     
     
     var i = Math.floor(1*Math.random())
