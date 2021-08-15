@@ -11,7 +11,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
     
     
    
-  r_text[0] = "https://images.app.goo.gl/hCvtqFwzT2ahzi7q6";
+  r_text[0] = "https://logos.textgiraffe.com/logos/logo-name/Nadeem-designstyle-love-heart-m.png";
     
     
     var i = Math.floor(1*Math.random())
